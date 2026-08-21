@@ -1,11 +1,3 @@
-
-/*
- * led.h
- *
- *  Created on: 28-Dec-2019
- *      Author: nieki
- */
-
 #ifndef LED_H_
 #define LED_H_
 
