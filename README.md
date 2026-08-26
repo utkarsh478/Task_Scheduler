@@ -187,9 +187,6 @@ These are real defects, left in and documented rather than papered over.
 
 ---
 
-## Reference
-
-Built while working through the [FastBit Embedded Brain Academy](https://fastbitlab.com/) RTOS course, then rewritten for the F446RE and extended.
 
 Primary documents:
 
